@@ -1,4 +1,0 @@
-path: dataset
-train: images/train
-val: images/val
-names: ["object1", "object2"] # Replace with your classes
